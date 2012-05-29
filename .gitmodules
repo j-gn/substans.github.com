@@ -1,3 +1,6 @@
 [submodule "subMath"]
 	path = subMath
 	url = git://github.com/substans/subMath.git
+[submodule "javvyLab"]
+	path = javvyLab
+	url = git://github.com/substans/javvyLab.git
