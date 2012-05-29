@@ -1,3 +1,3 @@
 [submodule "subMath"]
 	path = subMath
-	url = git@github.com:substans/subMath.git
+	url = git://github.com/substans/subMath.git
